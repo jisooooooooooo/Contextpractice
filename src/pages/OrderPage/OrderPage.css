@@ -1,0 +1,14 @@
+.title{
+  font-size: 25px;
+}
+.bottom {
+  display: flex;
+  & > div {
+    width: 50%;
+  }
+}
+.order-button {
+  background-color: rgb(54, 54, 56);
+  color: white;
+  border-radius: 4px;
+}
